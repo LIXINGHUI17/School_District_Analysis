@@ -23,9 +23,11 @@
 ![New_School_Summary](/Resources/New_School_Summary.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+#### There is no effects relative to the other schools.
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
+##### Only Grade for Grade 9 at Thomas High School changed to NaN, as below pictures show:
 
 ##### Old Math Score
 ![Old_Math_Score_by_Grades](/Resources/Old_Math_Score_by_Grades.png)
@@ -38,6 +40,8 @@
 
 #### Scores by school spending
 
+##### Both results are same.
+
 ##### Old School Spending
 ![Old_Spending_Summary](/Resources/Old_Spending_Summary.png)
 ##### New School Spending
@@ -45,12 +49,16 @@
 
 #### Scores by school size
 
+##### Both results are same. However, we found large size school has the lowest overall passing rate, which more than 30% different.
+
 ##### Old School Size
 ![Old_School_Size_Summary](/Resources/Old_School_Size_Summary.png)
 #### New School Size
 ![New_School_Size_Summary](/Resources/New_School_Size_Summary.png)
 
 #### Scores by school type
+
+##### Both results are same. However, Charter Schools have much higher overall passing rate than District Schools.
 
 ##### Old School Type
 ![Old_School_Type_Summary](/Resources/Old_School_Type_Summary.png)
