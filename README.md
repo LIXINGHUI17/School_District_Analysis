@@ -40,7 +40,7 @@
 
 #### Scores by school spending
 
-##### Both results are same.
+##### Both results are same. However, we found more spending on each student, less overall passing rate.
 
 ##### Old School Spending
 ![Old_Spending_Summary](/Resources/Old_Spending_Summary.png)
