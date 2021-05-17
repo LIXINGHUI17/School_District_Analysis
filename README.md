@@ -9,7 +9,7 @@
 ### How is the district summary affected?
 
 #### Old District Summary
-![Old_district_summary](/Resources/Old district summary.png)
+![Old_district_summary](/Resources/Old_district_summary.png)
 #### New Didtrict Summary
 ![New_district_summary](/Resources/New district summary.png)
 How is the school summary affected?
