@@ -1,7 +1,7 @@
 # School_District_Analysis
 [PyCitySchools_Challenge](PyCitySchools_Challenge.ipynb)
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis:
 ### The purpose of this project is to find overall passing percentages of the students and see if there is any correlations with the budget per student, school size and school type. Might due to the potential academic dishonesty for grade 9 student at Thomas High School, we did second analysis through replacing NaN to those students 
 
 ## Results:
