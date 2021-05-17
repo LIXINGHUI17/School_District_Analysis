@@ -2,7 +2,7 @@
 [PyCitySchools_Challenge](PyCitySchools_Challenge.ipynb)
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
-###
+### The purpose of this project is to find overall passing percentages of the students and see if there is any correlations with the budget per student, school size and school type. Might due to the potential academic dishonesty for grade 9 student at Thomas High School, we did second analysis through replacing NaN to those students 
 
 ## Results:
 
@@ -66,3 +66,4 @@
 ![New_School_Type_Summary](/Resources/New_School_Type_Summary.png)
 
 ## Summary: 
+### After replacing the socres of the 9th grade student at Thomas High School, we found not much has changed. However, Thomas High School lost its placement as a top five school within this District when we did this second analysis.
