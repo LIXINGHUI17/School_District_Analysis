@@ -4,9 +4,10 @@
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 ###
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results:
 
 ### How is the district summary affected?
+#### The average math score dropped 0.1%, the average reading score stayed same. The percentage of passing math dropped 0.2%, and the percentage of passing reading dropped 0.3%. The percentage of overall passing dropped 0.1%.
 
 #### Old District Summary
 ![Old_district_summary](/Resources/Old_district_summary.png)
@@ -14,6 +15,7 @@
 ![New_district_summary](/Resources/New_district_summary.png)
 
 ### How is the school summary affected?
+#### There is no changes for other schools. Only change exist for Thomas High School as below pictures show. For average grade for math and reading, both are similar, however, for percentage of passing math and reading, there are 30% different, since we replaced the grade for grade 9 at Thomas High School. The numerator becomes smaller and the denominator remains unchanged. So the results dropped around 30%.
 
 #### Old School Summary
 ![Old_School_Summary](/Resources/Old_School_Summary.png)
